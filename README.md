@@ -41,7 +41,7 @@ You may not need this starter repo! Learn how to add Netlify Identity and Functi
 ## How to start
 
 You can clone and deploy this sample project with one click:
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sw-yx/jamstack-hackathon-starter&stack=cms&utm_source=github&utm_medium=swyx-hackathon-starter&utm_campaign=devex)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/weisk-gatsby/jamstack-hackathon-starter&stack=cms&utm_source=github&utm_medium=swyx-hackathon-starter&utm_campaign=devex)
 
 For development you can clone and open this project with another click: 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/from-referrer/)
